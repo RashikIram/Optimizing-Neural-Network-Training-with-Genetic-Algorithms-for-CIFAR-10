@@ -8,3 +8,11 @@ In this project, I analyzed how using Genetic Algorithm DNN models performs in t
 
 
 ![image](https://github.com/user-attachments/assets/2752390c-25df-4895-b28a-0a27679bbae6)
+
+
+
+
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE.md](LICENSE.md) file for details.
